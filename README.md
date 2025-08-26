@@ -29,3 +29,9 @@
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
+
+
+
+
+## 🎮 Fora do código
+Quando não estou programando, gosto de jogar Minecraft, correr, treinar e aprender coisas novas de forma prática.  
