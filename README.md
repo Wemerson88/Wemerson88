@@ -29,10 +29,15 @@
   <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
+
+
 </div>
 
 
 
 
 ## 🎮 Fora do código
-Quando não estou programando, gosto de jogar Minecraft, correr, treinar e aprender coisas novas de forma prática.  
+Quando não estou programando, gosto de jogar, correr, treinar, estudar neurocência, comportamentos e aprender coisas novas :).  
