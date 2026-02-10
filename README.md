@@ -14,10 +14,14 @@
 
 ---
 
+
 ## 👨‍💻 Estatísticas
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wemerson88&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Wemerson88&layout=compact&theme=radical) |
+| ![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Wemerson88&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wemerson88&layout=compact&theme=radical) |
 |---|---|
+
+
+
 
 ---
 
