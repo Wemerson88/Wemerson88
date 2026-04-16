@@ -25,23 +25,36 @@
 
 ---
 
-## 🔧 Linguagens e Ferramentas
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="center" alt="MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+### 🚀 Linguagens 
 
+![C](https://img.shields.io/badge/C-gray?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
 
+### 🛠️ Ferramentas e Tecnologias
 
-</div>
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)
+![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
+![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![React](https://img.shields.io/badge/React-blue?logo=react)
 
 
 
 
 ## 🎮 Fora do código
-Quando não estou programando, gosto de jogar, correr, treinar, estudar neurocência, comportamentos e aprender coisas novas :).  
+
+🏃‍♂️ Treinar e correr  
+🎮 Jogar  
+🧠 Estudar neurociência e comportamento  
+📚 Aprender coisas novas constantemente 
