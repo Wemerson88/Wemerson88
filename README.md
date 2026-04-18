@@ -1,27 +1,37 @@
-## Olá! Eu sou o Wemerson
+## Olá! Eu sou o Wemerson 👋
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</p>
 
-
-🎓 Sou estudante de **Ciência da Computação**  
-💡 Apaixonado por tecnologia e programação. 
+🎓 Sou estudante de **Ciência da Computação (UFMA)**  
+💡 Apaixonado por tecnologia e programação  
+🚀 Focado em desenvolvimento web e dados  
 
 ---
 
 ## 📫 Converse comigo:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://br.linkedin.com/in/wemerson-chagas-de-miranda-345b47233?trk)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wemersonmiranda2019@gmail.com)
+<p>
+<a href="https://br.linkedin.com/in/wemerson-chagas-de-miranda-345b47233?trk">
+  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
+<a href="mailto:wemersonmiranda2019@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-
 ## 👨‍💻 Estatísticas
 
-| ![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Wemerson88&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Wemerson88&layout=compact&theme=radical) |
-|---|---|
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wemerson88&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wemerson88&layout=compact&theme=radical&cache_seconds=1800"/>
+</p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wemerson88&theme=radical"/>
+</p>
 
 ---
 
@@ -33,6 +43,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+
+---
 
 ### 🛠️ Ferramentas e Tecnologias
 
@@ -49,12 +61,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
 ![React](https://img.shields.io/badge/React-blue?logo=react)
 
-
-
+---
 
 ## 🎮 Fora do código
 
 🏃‍♂️ Treinar e correr  
 🎮 Jogar  
 🧠 Estudar neurociência e comportamento  
-📚 Aprender coisas novas constantemente 
+📚 Aprender coisas novas constantemente  
