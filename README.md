@@ -18,7 +18,7 @@ Estudante de Ciência da Computação com foco em desenvolvimento de software, a
 
 Tenho vivência no ciclo de vida de software em projetos acadêmicos e pessoais, do levantamento de requisitos e modelagem com diagramas UML até testes, validação e manutenção.
 
-Busco uma oportunidade de estágio em desenvolvimento para aplicar essas habilidades em projetos reais.
+Atualmente, busco oportunidades para ampliar minha experiência prática em desenvolvimento de software e contribuir em projetos que envolvam tecnologia e programação.
 
 ---
 
