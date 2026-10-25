@@ -1,16 +1,16 @@
-## Olá! Eu sou o Wemerson 👋
+## Wemerson Miranda
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-🎓 Estudante de **Ciência da Computação na UFMA**  
-💻 Desenvolvimento **Full Stack** e construção de soluções de software  
-🎯 Em busca de **estágio em desenvolvimento**  
+ Estudante de **Ciência da Computação na UFMA**  
+ Desenvolvimento **Full Stack** e construção de soluções de software  
+ Em busca de **estágio em desenvolvimento**  
 
 ---
 
-## 💻 Sobre mim
+##  Sobre mim
 
 **`Desenvolvedor Full Stack em formação`**
 
@@ -22,7 +22,7 @@ Busco uma oportunidade de estágio em desenvolvimento para aplicar essas habilid
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 **Linguagens**
 
@@ -50,7 +50,7 @@ Busco uma oportunidade de estágio em desenvolvimento para aplicar essas habilid
 
 ---
 
-## 📫 Converse comigo
+##  Converse comigo
 
 <p>
   <a href="https://br.linkedin.com/in/wemerson-chagas-de-miranda-345b47233">
